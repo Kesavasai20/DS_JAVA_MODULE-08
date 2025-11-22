@@ -14,7 +14,7 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 8.Display the current stream and the first unique number.   
 
 ## Program:
-```
+```PY
 /*
 Program to tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
 Developed by: K KESAVA SAI
